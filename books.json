@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "title": "You Only Live Once",
+      "author": "Stuti Changle",
+      "imageUrl": "https://m.media-amazon.com/images/I/413OgI8KzuL._SX322_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 1,
+      "title": "The Girl in Room 105",
+      "author": "Chetan Bhagat",
+      "imageUrl": "https://m.media-amazon.com/images/I/41HO-aObUSL.jpg"
+    },
+    {
+      "id": 2,
+      "title": "That Night: Four Friends, Twenty Years",
+      "author": "Nidhi Upadhyay",
+      "imageUrl": "https://m.media-amazon.com/images/I/81b1PP4RK1L.jpg"
+    },
+    {
+      "id": 3,
+      "title": "A MAN CALLED OVE",
+      "author": "Fredrik Backman",
+      "imageUrl": "https://m.media-amazon.com/images/I/81bLu0WNrjL.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Touch of Eternity",
+      "author": "Durjoy Datta",
+      "imageUrl": "https://m.media-amazon.com/images/I/61ZRWLIH8oL.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "imageUrl": "https://m.media-amazon.com/images/I/51oVTRsjcqL.jpg"
+    }
+  ]
+}
