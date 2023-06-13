@@ -35,6 +35,61 @@
       "title": "The Silent Patient",
       "author": "Alex Michaelides",
       "imageUrl": "https://m.media-amazon.com/images/I/51oVTRsjcqL.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The 5 AM Club",
+      "author": "Robin Sharma",
+      "imageUrl": "https://m.media-amazon.com/images/I/71zytzrg6lL.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Manifest: 7 Steps to living your best life",
+      "author": "Roxie Nafousi",
+      "imageUrl": "https://m.media-amazon.com/images/I/715u7p+38+L.jpg"
+    },
+    {
+      "id": 8,
+      "title": "KARMA: A YOGI'S GUIDE TO CRAFTING YOUR DESTINY",
+      "author": "Sadguru",
+      "imageUrl": "https://m.media-amazon.com/images/I/91xafByFlLL.jpg"
+    },
+    {
+      "id": 9,
+      "title": "IKIGAI",
+      "author": "Francesc Miralles",
+      "imageUrl": "https://m.media-amazon.com/images/I/814L+vq01mL.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Hollywood to the Himalayas",
+      "author": "Sadhvi Bhagawati Saraswati",
+      "imageUrl": "https://m.media-amazon.com/images/I/81TQ0VVZH1L.jpg"
+    },
+    {
+      "id": 11,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "imageUrl": "https://m.media-amazon.com/images/I/71g2ednj0JL.jpg"
+    },
+    {
+      "id": 12,
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "imageUrl": "https://m.media-amazon.com/images/I/81LAv8okW8L.jpg"
+    },
+    {
+      "id": 13,
+      "title": "The Almanack of Naval Ravikant",
+      "author": "Naval Ravikant",
+      "imageUrl": "https://m.media-amazon.com/images/I/713ygCSExlL.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Grandma's Bag of Stories",
+      "author": "Sudha Murty",
+      "imageUrl": "https://m.media-amazon.com/images/I/61yB0UFlM3L.jpg"
     }
+
   ]
 }
